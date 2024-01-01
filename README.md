@@ -12,6 +12,7 @@ In Lightburn
 <li>When done with your design, use the save Gcode option to save a gc file</li>
 <li>Run the powershell script - it will prompt for the file, test your cutter and send it as it converts it. You could also tweak this to monitor a directly in which case you can just save in Lightburn to that directory and have it auto convert/send (To be added)</li>
 
+<br><b>
 
-
-If you find this useful and it saves you from buying another piece of software, send me a beer at paypal.me/lawrencejeff
+If you find this useful and it saves you from buying another piece of software, buy me a beer:<br>
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/lawrencejeff/4)
