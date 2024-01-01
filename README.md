@@ -14,3 +14,4 @@ In Lightburn
 
 
 
+If you find this useful and it saves you from buying another piece of software, send me a beer at paypal.me/lawrencejeff
