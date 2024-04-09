@@ -10,7 +10,7 @@ In Lightburn
 <li>Make sure you are in absolute Coordinate mode in Lightburn</li>
 <li>The layer settings really don't matter, the speeds/power aren't used - it expects the cutter to control these. One exception is the kerf settings you should bump this up to .2mm or so to better account for the knife vs laser spot size</li>
 <li>When done with your design, use the save Gcode option to save a gc file</li>
-<li>Run the powershell script - it will prompt for the file, test your cutter and send it as it converts it. You could also tweak this to monitor a directly in which case you can just save in Lightburn to that directory and have it auto convert/send (To be added)</li>
+<li>Run the powershell script - it will prompt for the file, test your cutter and send it as it converts it. You could also tweak this to monitor a directort in which case you can just save in Lightburn to that directory and have it auto convert/send (To be added)</li>
 
 <br><b>
 
